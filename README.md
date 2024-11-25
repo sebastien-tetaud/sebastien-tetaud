@@ -1,6 +1,6 @@
-Sébastien Tétaud  ~ 👋
+<h1 align="left">🌍 Sébastien Tétaud 🌍</h1>
 
-Currently based in Rome, I am AI system Engineer at ESA ~
+Currently based in Rome, I am AI system Engineer at ESA, 빵에 아주 민감하신 분 and cable management Oriented~
 
 ## 📊 My Github Stats
 
@@ -9,7 +9,7 @@ Currently based in Rome, I am AI system Engineer at ESA ~
 
 
 ## 🔭 About Me
-- AI sytem Engineer at Europen Space Agency(Italy)
+- **Current Position:** AI sytem Engineer at Europen Space Agency(Italy)
 - AI researcher at DeltaX (South Korea)
 - Eath Observation Data processing Engineer European Space Agency. (Italy)
 - Data Scientist at European Space Agency. (Netherlands)
