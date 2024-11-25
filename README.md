@@ -14,7 +14,6 @@ Currently based in Rome, I am AI system Engineer at ESA, 빵에 아주 민감하
 - Eath Observation Data processing Engineer European Space Agency. (Italy)
 - Data Scientist at European Space Agency. (Netherlands)
 - Earth Observation Data processing Engineer at CNRS. (France)
-- Junior Physics Engineer at CERN. (Switzerland)
 
 ## 📃 Featured publications
 
