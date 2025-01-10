@@ -4,7 +4,7 @@ Currently based in Rome, I am AI system Engineer at ESA, 빵에 아주 민감하
 
 ## 📊 My Github Stats
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesGaydon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="sebastien-tetaud's github stats" /></a> | <a href="https://github.com/sebastien-tetaud/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-tetaud&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastien-tetaud&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="sebastien-tetaud's github stats" /></a> | <a href="https://github.com/sebastien-tetaud/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-tetaud&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 ## 🔭 About Me
