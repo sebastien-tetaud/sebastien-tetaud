@@ -4,8 +4,8 @@ Currently based in Rome, I am AI system Engineer at ESA, 빵에 아주 민감하
 
 ## 📊 My Github Stats
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastien-tetaud&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="sebastien-tetaud's github stats" /></a> | <a href="https://github.com/sebastien-tetaud/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-tetaud&layout=compact&theme=buefy&hide_border=true" /></a> |
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-tetaud&theme=dark)](https://github.com/sebastien-tetaud/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=sebastien-tetaud&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 About Me
 - **Current Position:** AI sytem Engineer at Europen Space Agency(Italy)
