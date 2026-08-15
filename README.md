@@ -4,10 +4,10 @@ Currently based in Rome, I am AI Engineer at ESA, 빵에 아주 민감하신 분
 
 
 ## 🔭 About Me
-- **Current Position:** AI Engineer at Europen Space Agency (Italy)
+- **Current Position:** AI Engineer at European Space Agency (The Netherlands)
 - AI researcher at DeltaX (South Korea)
 - Eath Observation Data processing Engineer European Space Agency (Italy)
-- Data Scientist at European Space Agency (Netherlands)
+- Data Scientist at European Space Agency (The Netherlands)
 - Earth Observation Data processing Engineer at CNRS. (France)
 
 ## 📃 Featured publications
