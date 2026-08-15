@@ -1,6 +1,6 @@
 <h1 align="left">🌍 Sébastien Tétaud 🌍</h1>
 
-Currently based in Rome, I am AI Engineer at ESA, 빵에 아주 민감하신 분 and cable management Oriented~
+Currently based in Netherlands, I am a Machine Learning Engineer at ESA, 빵에 아주 민감하신 분 and cable management Oriented~
 
 
 ## 🔭 About Me
