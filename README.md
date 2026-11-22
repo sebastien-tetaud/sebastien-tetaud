@@ -4,8 +4,8 @@ Currently based in Netherlands, I am a Machine Learning Engineer at ESA, 빵에 
 
 
 ## 🔭 About Me
-- **Current Position:** AI Engineer at European Space Agency (The Netherlands)
-- AI researcher at DeltaX (South Korea)
+- **Current Position:** Deep Learning Engineer at European Space Agency (The Netherlands)
+- Deep Learning researcher for Computer Vision at DeltaX (South Korea)
 - Eath Observation Data processing Engineer European Space Agency (Italy)
 - Data Scientist at European Space Agency (The Netherlands)
 - Earth Observation Data processing Engineer at CNRS. (France)
